@@ -1,0 +1,31 @@
+[33mcommit dd2f30ddd9928fd8920b575ef5ef648ef3bf31ee[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: lindyhop-ulm <lindyhop-ulm@web.de>
+Date:   Sat Aug 19 21:42:34 2023 +0200
+
+    mobilanpassung Rückgängig für Veranstaltunen und Kurse
+
+[33mcommit 0df414d8a51618d2d6bf571a1ba98fc665668f1e[m
+Author: lindyhop-ulm <lindyhop-ulm@web.de>
+Date:   Sat Aug 19 21:39:37 2023 +0200
+
+    test Anpassung Mobilversion und link zu font
+
+[33mcommit c21f935c31f4b16c21c2adfedfc442b23912b0c5[m
+Author: lindyhop-ulm <lindyhop-ulm@web.de>
+Date:   Sat Aug 19 20:39:36 2023 +0200
+
+    Kurse der VH hinzugefügt
+
+[33mcommit 9af2022e01446c7bc0ff8d0d8d11953d40241b20[m
+Author: lindyhop-ulm <142482139+lindyhop-ulm@users.noreply.github.com>
+Date:   Sat Aug 19 19:19:31 2023 +0200
+
+    Create README.md
+    
+    readme created
+
+[33mcommit 6ad3a2708e6ec25bd6c7e77bfb847f789b7ac820[m
+Author: lindyhop-ulm <lindyhop-ulm@web.de>
+Date:   Sat Aug 19 18:43:35 2023 +0200
+
+    Testordner initialisiert
