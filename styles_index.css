@@ -1,5 +1,5 @@
 html,body{margin:0;padding:0}
-body{font: 76% arial,sans-serif;text-align:center}
+body{text-align:center; font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
 p{margin:0 10px 10px}
 a{padding:5px; text-decoration:underline; color:#fbf8f8; text-align:center}
 div#header{background-color:#922932;}

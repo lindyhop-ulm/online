@@ -1,7 +1,7 @@
 *{margin: 0;
   padding: 0;}
 html{margin:0; padding:0}
-body{font: 76% arial,sans-serif;
+body{font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;;
    text-align:center;
    background-color:rgb(137, 114, 154);
    margin:0;
@@ -31,7 +31,7 @@ margin-bottom: 1cm; margin-top:1cm;}
     text-decoration: underline; 
       margin-bottom: 20pt;}
 div#header{text-align: center;}
-div#navigator{float:right; width:100px; margin-top:36pt; margin-right: 100pt; background-color:#a68bc0bc;}
+div#navigator{float:right; width:100px; background-color:#a68bc0bc;}
 div#navigator p{text-align:left; font-size: 12pt;}
 div#container{text-align:center;}
 div#content p{text-align:center}
