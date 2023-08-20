@@ -147,7 +147,7 @@ div#footer{clear:both;width:100%; height: 12pt;}
   div#footer{background:rgba(137, 114, 154, 0.75);}
   div#footer p{margin:0;padding:0}
   div#container{float:none; max-width:100vw;margin:0; min-height: 100vh;}
-  div#content{margin: 0 auto; max-width:90vw; background-color: rgba(137, 114, 154, 0.75);height: auto; padding: 0; min-height: 100vh;}
+  div#content{margin: 0 auto; max-width:90vw; background-color: rgba(137, 114, 154, 0.75);height: auto; padding:0; min-height: 100vh;}
   div#footer{clear:both;max-width:100vw; height: 12pt;}
   #aufforderung{font-size: 20pt; margin-top:30pt;}
   #immer{background-color: rgba(137, 114, 154, 0.75);}
