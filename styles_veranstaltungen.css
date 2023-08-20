@@ -72,6 +72,9 @@ div#content{float:none; width:600px; background-color: rgba(137, 114, 154, 0.75)
 div#footer{clear:both;width:100%; height: 12pt;}
 #aufforderung{font-size: 12pt; margin-top:12pt;}
 #immer{background-color: rgba(137, 114, 154, 0.75);}
+table{text-align:center; margin: 1cm auto; color:white; max-width: 600px;}
+td{padding: 10px;}
+
 
 
 
@@ -152,4 +155,6 @@ div#footer{clear:both;width:100%; height: 12pt;}
   #aufforderung{font-size: 20pt; margin-top:30pt;}
   #immer{background-color: rgba(137, 114, 154, 0.75);}
   #link{text-align:center;}
+  table{text-align:center; margin: 1cm auto; color:white; max-width: 90vw;}
+  td{padding: 10px;}
 }
