@@ -88,7 +88,7 @@ a{padding:5px; text-decoration:underline; color:#fbf8f8; text-align:center}
 div#header{background-color:#922932;}
 div#header h1{height:80px;line-height:80px;margin:0;padding-left:10px; max-width:100%;}
 div#container{text-align:left}
-div#content p{line-height:1.4; font-size: 24pt;}
+div#content p{line-height:1.4; font-size: 20pt;}
 div#content h2{color: white;}
 div#navigation{background:#ca3a46;}
 div#navigation ul{margin:15px 0; padding:0; list-style-type:none;}
@@ -97,7 +97,7 @@ div#extra{background:#df5462;}
 div#footer{background:#e3606d;}
 div#footer p{margin:0;padding:5px 10px}
 div#container{max-width: 100%;margin:0 auto}
-div#content{float:left;max-width: 100%; padding-left: 10%; padding-right: 10%}
+div#content{float:left;max-width: 90%;}
 div#navigation{float:right;max-width: 200px;}
 div#extra{float:right;clear:right;max-width:200px}
 div#footer{clear:both;width:100%}
@@ -109,7 +109,8 @@ p{text-align:left; color: white;}
 body{background-color:rgba(215, 81, 81, 0.89);
     background-image:url('images/iron-horse-music-hall-ballroom-dance-swing-film-dancing-1f6edbd31b5721748292a6e919539ac9.png');
     background-repeat: no-repeat;
-    background-size: 500px, 300px;}
+    background-size: cover;
+  width:100%}
 li{color:white}
 .dropbtn {
     background-color: rgba(215, 81, 81, 0.89);
