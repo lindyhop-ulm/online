@@ -1,7 +1,7 @@
 *{margin: 0;
   padding: 0;}
 html{margin:0; padding:0}
-body{font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;;
+body{font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
    text-align:center;
    background-color:rgb(137, 114, 154);
    margin:0;
@@ -75,11 +75,11 @@ div#footer{clear:both;width:100%; height: 12pt;}
 
 
 
-@media (max-width: 760px){
+@media (max-width: 760px) and (orientation: portrait) {
   *{margin: 0;
     padding: 0;}
   html{margin:0; padding:0}
-  body{font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;;
+  body{font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
      text-align:center;
      background-color:rgb(137, 114, 154);
      margin:0;
