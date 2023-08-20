@@ -75,7 +75,7 @@ div#footer{clear:both;width:100%; height: 12pt;}
 
 
 
-@media all and (max-width: 480px){
+@media (max-width: 480px){
   *{margin: 0;
     padding: 0;}
   html{margin:0; padding:0}
@@ -94,7 +94,7 @@ div#footer{clear:both;width:100%; height: 12pt;}
   h1{color: black;
     text-align:center; 
     font-family:Limelight;
-    font-size: 28pt;
+    font-size: 22pt;
     text-decoration: underline;
   margin-bottom: 0cm;
   padding: 1cm;
@@ -148,6 +148,6 @@ div#footer{clear:both;width:100%; height: 12pt;}
   div#container{float:none; max-width:450px;margin:0 auto; min-height: 100vh;}
   div#content{float:none; width:450px; background-color: rgba(137, 114, 154, 0.75);height: auto; padding: 1cm; min-height: 100vh;}
   div#footer{clear:both;width:100%; height: 12pt;}
-  #aufforderung{font-size: 16pt; margin-top:30pt;}
+  #aufforderung{font-size: 24pt; margin-top:30pt;}
   #immer{background-color: rgba(137, 114, 154, 0.75);}
 }
