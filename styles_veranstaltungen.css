@@ -191,9 +191,9 @@ p{margin:0 auto 5px auto}
   #immer{background-color: rgba(137, 114, 154, 0.75);}
   #link{text-align:center;}
   .tab_events table{text-align:center; margin: 1cm auto; color:white; max-width: 600px;}
-  .tab_events td{padding: 10px;}
-  div#extra{background: #73449ebc; padding: 10px}
-  p{margin:0 auto 5px auto}
+  .tab_events td{padding: 5px; font-size:12px}
+  div#extra{background: #73449ebc; padding: 5px}
+  p{margin:0 auto 0 auto}
   .dropbtn {
     background-color: #a68bc0;
     color: white;
