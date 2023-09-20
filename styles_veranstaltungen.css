@@ -44,6 +44,7 @@ button {
   display: inline-block;
   font-size: 12px;
 }
+div#dat{min-width: 4cm;}
 button:hover {background-color: #73449ebc;}
 div#container{text-align:center;}
 div#content p{text-align:center}
