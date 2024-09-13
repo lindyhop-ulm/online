@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://lindyhop-ulm.github.io/online/sitemap.xml
